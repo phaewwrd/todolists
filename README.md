@@ -5,6 +5,7 @@ git clone https://github.com/phaewwrd/todolists.git
 ```
 **Step 2: Install the dependencies
 ```bash
+cd todolists
 npm install
 ```
 
